@@ -1,4 +1,4 @@
-## Hello, I'm Deepika 👋
+## Hey, I'm Deepika 👋
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning how to manage things parallelly
