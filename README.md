@@ -1,9 +1,13 @@
 # ``` Hey, I'm Deepika 👋```
 
 - 🔭 I’m currently working on **Web Development**
+
 - 🌱 I’m currently learning how to manage things parallelly
+
 - 👯 I’m looking to collaborate with something new or interesting
+
 - 💬 Ask me about anything 
+
 - 😄 Pronouns: she/her
 
 <!--
